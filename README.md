@@ -22,3 +22,19 @@ The dataset contains the following columns:
 - Duration - Information on Movies duration and TV Shows season count
 - Listed_id - Information about the genre of Movie and TV Show
 - Description - Information about the description of Movie or TV Show
+
+## Key steps 
+Here are the key steps I've taken in this analysis:
+1. Initial Data Inspection;
+2. Data summary;
+3. Handling Missing Values;
+4. Data Cleaning;
+5. Data Visualization.
+
+## Short-term improvements
+Here are some ideas for short-term improvements and enhancements that I can consider for this Netflix Exploratory Data Analysis (EDA) project:
+
+- Comparative Analysis: I'll extend my analysis to include in this analysis more comparative insights.
+- Dashboard Creation: I can build a dashboard using tools like Tableau, Power BI, or Dash/Plotly to present the analysis interactively and share it with a wider audience.
+
+These improvements will enhance the quality and depth of the analysis and provide more valuable insights for the audience.
