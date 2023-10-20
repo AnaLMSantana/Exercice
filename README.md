@@ -1,14 +1,14 @@
-# Netflix Exploratory Data Analisis
+# Netflix Exploratory Data Analisis📈
 
-## Libraries
+## Libraries 📖
 In 'requirements.txt' file
 
-## Usage
+## Usage 🖊️
 1. Clone this repository.
 2. Open the `Netflix-Exercice.ipynb` file in a Jupyter environment.
 3. Follow the instructions and run the cells to see the analysis in detail.
 
-## About 
+## ✨ About ✨
 The dataset contains the following columns:
 - Show_id - information on unique IDs for Movies and TV Shows, content type
 - Type - Information about content type : Movie / TV Show
@@ -23,7 +23,7 @@ The dataset contains the following columns:
 - Listed_id - Information about the genre of Movie and TV Show
 - Description - Information about the description of Movie or TV Show
 
-## Key steps 
+## Key steps 🗝️
 Here are the key steps I've taken in this analysis:
 1. Initial Data Inspection;
 2. Data summary;
@@ -31,7 +31,7 @@ Here are the key steps I've taken in this analysis:
 4. Data Cleaning;
 5. Data Visualization.
 
-## Short-term improvements
+## Short-term improvements ✅
 Here are some ideas for short-term improvements and enhancements that I can consider for this Netflix Exploratory Data Analysis (EDA) project:
 
 - Comparative Analysis: I'll extend my analysis to include in this analysis more comparative insights.
